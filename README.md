@@ -1,1 +1,1 @@
-# first-website-not-complete
+# first static site
